@@ -32,7 +32,7 @@ body {
 
 .box-1 {
   grid-area: box-1;
-  background: #6c43a5;
+  background: #733fc8;
   background-image: url(img/bg-pattern-quotation.svg);
   background-repeat: no-repeat;
   background-position: 90% 0;
